@@ -1,0 +1,1263 @@
+{
+  "setup_required": false,
+  "updated_at": "2026-08-27T05:34:05.582848+00:00",
+  "researcher": {
+    "name": "Jin Sik Kim",
+    "title": "Assistant Professor of Management Science & Information Systems",
+    "institution": "University of Massachusetts Boston",
+    "website": "https://www.jskim.space/research",
+    "orcid": "0000-0002-4618-4410",
+    "institution_url": "https://scholar.google.com/citations?view_op=view_org&hl=en&org=12456219456152755158",
+    "research_themes": [
+      "Human-AI Collaboration",
+      "Digital Humans & Generative AI",
+      "Healthcare Information Systems",
+      "Digital Transformation & Emerging Technologies",
+      "Technology Adoption & Organizational Performance"
+    ]
+  },
+  "metrics": {
+    "verified_publications": 11,
+    "unique_citing_works": 17,
+    "citation_links": 17,
+    "curated_h_index": 2,
+    "curated_i10_index": 0
+  },
+  "source_counts": {
+    "Google Scholar": 12,
+    "Institutional Repository": 1,
+    "OpenCitations": 4,
+    "ResearchGate": 9,
+    "Semantic Scholar": 3
+  },
+  "citations_by_year": [
+    {
+      "year": 2023,
+      "citations": 1
+    },
+    {
+      "year": 2025,
+      "citations": 11
+    },
+    {
+      "year": 2026,
+      "citations": 5
+    }
+  ],
+  "publications": [
+    {
+      "key": "kim-lee-shin-sneha-2026",
+      "title": "Beyond adoption: data-driven insights into how EMR implementation sequences shape hospital outcomes",
+      "aliases": [],
+      "year": 2026,
+      "date": "2026-01-26",
+      "venue": "Industrial Management & Data Systems",
+      "volume": "126",
+      "issue": "2",
+      "pages": "592-621",
+      "doi": "10.1108/IMDS-01-2024-0019",
+      "record_url": "https://doi.org/10.1108/IMDS-01-2024-0019",
+      "category": "Journal Article",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 0,
+      "citations": []
+    },
+    {
+      "key": "lee-lee-shin-kim-hicss-2026-minitrack",
+      "title": "Introduction to the Minitrack on Impacts and Challenges in Engaging AI and Digital Humans: Human-Technology Collaboration",
+      "aliases": [],
+      "year": 2026,
+      "date": "2026-01-06",
+      "venue": "Proceedings of the 59th Hawaii International Conference on System Sciences",
+      "pages": "694-695",
+      "doi": "10.24251/HICSS.2026.081",
+      "record_url": "https://doi.org/10.24251/HICSS.2026.081",
+      "category": "Minitrack Introduction",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 0,
+      "citations": []
+    },
+    {
+      "key": "kim-kim-shin-dsi-2025",
+      "title": "The Impact of Immersive Digital Technology on Tacit Knowledge Transfer and Task Values",
+      "aliases": [],
+      "year": 2025,
+      "date": "2025-11-23",
+      "venue": "Proceedings of the Decision Sciences Institute 56th Annual Conference",
+      "pages": "1309-1325",
+      "doi": "",
+      "record_url": "https://decisionsciences.org/publication/proceeding/2025-annual-meeting-of-the-decision-sciences-institute-proceedings/",
+      "category": "Conference Paper",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 0,
+      "citations": []
+    },
+    {
+      "key": "lee-shin-kim-lee-hicss-2025-minitrack",
+      "title": "Introduction to the Minitrack on Engaging Artificial Intelligence and Digital Humans in the Entertainment Industry",
+      "aliases": [],
+      "year": 2025,
+      "date": "2025-01-07",
+      "venue": "Proceedings of the 58th Hawaii International Conference on System Sciences",
+      "pages": "501-502",
+      "doi": "10.24251/HICSS.2025.060",
+      "record_url": "https://aisel.aisnet.org/hicss-58/cl/digital_humans/1/",
+      "category": "Minitrack Introduction",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 1,
+      "citations": [
+        {
+          "title": "AI and Cultural Innovations in South Korea",
+          "doi": "10.63680/za465gfyvb86h5g5",
+          "year": 2025,
+          "authors": [
+            "Sakshi Mohankumar Dongre"
+          ],
+          "venue": "International Journal of Science, Architecture, Technology and Environment",
+          "sources": [
+            "Google Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=AI+and+Cultural+Innovations+in+South+Korea"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "lee-shin-kim-lee-hicss-2025-minitrack",
+          "relation_key": "lee-shin-kim-lee-hicss-2025-minitrack||doi:10.63680/za465gfyvb86h5g5"
+        }
+      ]
+    },
+    {
+      "key": "yun-shin-kim-kim-kmr-2025",
+      "title": "The Evolution of Smart Factories and the Metaverse for Innovative Value Creation in the Era of Industry 5.0",
+      "aliases": [
+        "인더스트리 5.0 시대, 혁신적 가치 창출을 위한 스마트 팩토리와 메타버스의 진화"
+      ],
+      "year": 2025,
+      "date": "2025-03-30",
+      "venue": "Knowledge Management Research",
+      "volume": "26",
+      "issue": "1",
+      "pages": "1-26",
+      "doi": "10.15813/kmr.2025.26.1.001",
+      "record_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003188381",
+      "category": "Journal Article",
+      "google_scholar_variants": [
+        {
+          "label": "English-title Google Scholar cluster",
+          "url": "https://scholar.google.com/scholar?cluster=17966983945278586092&hl=en&oi=scholarr"
+        },
+        {
+          "label": "Korean-title Google Scholar cluster",
+          "url": "https://scholar.google.com/scholar?oi=bibs&cluster=11257183816804140584&btnI=1&hl=en"
+        }
+      ],
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 1,
+      "citations": [
+        {
+          "title": "The Impact of Digital Transformation-Driven Process Innovation on Customization Strategy Performance: A Firm Size Comparison",
+          "doi": "10.15813/kmr.2025.26.3.003",
+          "year": 2025,
+          "authors": [
+            "Heejoo Lim",
+            "Sangjoon Lee"
+          ],
+          "venue": "Knowledge Management Research",
+          "sources": [
+            "Google Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=The+Impact+of+Digital+Transformation-Driven+Process+Innovation+on+Customization+Strategy+Performance%3A+A+Firm+Size+Comparison"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "yun-shin-kim-kim-kmr-2025",
+          "relation_key": "yun-shin-kim-kim-kmr-2025||doi:10.15813/kmr.2025.26.3.003"
+        }
+      ]
+    },
+    {
+      "key": "lee-kim-shin-you-sais-2025",
+      "title": "The Impact of AI-Human Collaboration Models on Creativity: A Study on Search Processes and Decision-Making Dynamics",
+      "aliases": [],
+      "year": 2025,
+      "venue": "SAIS 2025 Proceedings",
+      "doi": "",
+      "record_url": "https://aisel.aisnet.org/sais2025/20/",
+      "category": "Conference Paper",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 1,
+      "citations": [
+        {
+          "title": "Sequential Human-AI Collaboration Impairs Narrative Creativity in University Students: A Randomized Controlled Trial",
+          "doi": "10.21203/rs.3.rs-8774138/v1",
+          "year": 2026,
+          "authors": [
+            "Haotian Liang",
+            "Dawei Zhang",
+            "Xianli An",
+            "Junjun Xu"
+          ],
+          "venue": "Research Square",
+          "sources": [
+            "Google Scholar",
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=Sequential+Human-AI+Collaboration+Impairs+Narrative+Creativity+in+University+Students%3A+A+Randomized+Controlled+Trial",
+            "ResearchGate": "https://www.researchgate.net/publication/400503420_Sequential_Human-AI_Collaboration_Impairs_Narrative_Creativity_in_University_Students_A_Randomized_Controlled_Trial"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 2,
+          "target_key": "lee-kim-shin-you-sais-2025",
+          "relation_key": "lee-kim-shin-you-sais-2025||doi:10.21203/rs.3.rs-8774138/v1"
+        }
+      ]
+    },
+    {
+      "key": "shin-kim-kim-lee-yun-hicss-2025-ai-singer",
+      "title": "What Do You Feel about an AI Singer Created by Generative AI? Exploring Sentiment about an AI Singer from a Dual Realism Perspective",
+      "aliases": [],
+      "year": 2025,
+      "date": "2025-01-07",
+      "venue": "Proceedings of the 58th Hawaii International Conference on System Sciences",
+      "pages": "503-512",
+      "doi": "10.24251/HICSS.2025.061",
+      "record_url": "https://aisel.aisnet.org/hicss-58/cl/digital_humans/2/",
+      "category": "Conference Paper",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 2,
+      "citations": [
+        {
+          "title": "Sentiment Analysis of Fans Toward Brand Merchandise Releases Using Support Vector Machine (SVM)",
+          "doi": "10.30811/jaise.v5i3.7264",
+          "year": 2025,
+          "authors": [
+            "Christian Imanuel Munaiseche",
+            "Nurchim Nurchim",
+            "Bangun Prajadi Cipto Utomo"
+          ],
+          "venue": "Journal of Artificial Intelligence and Software Engineering",
+          "sources": [
+            "Google Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=Sentiment+Analysis+of+Fans+Toward+Brand+Merchandise+Releases+Using+Support+Vector+Machine+%28SVM%29"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "shin-kim-kim-lee-yun-hicss-2025-ai-singer",
+          "relation_key": "shin-kim-kim-lee-yun-hicss-2025-ai-singer||doi:10.30811/jaise.v5i3.7264"
+        },
+        {
+          "title": "Exploring AI Narratives: How and Why AI Is Portrayed Differently Among People",
+          "doi": "",
+          "year": 2025,
+          "authors": [
+            "Meike Bauer",
+            "Teresa Hammerschmidt",
+            "Oliver Posegga"
+          ],
+          "venue": "AMCIS 2025 Proceedings",
+          "sources": [
+            "Google Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=Exploring+AI+Narratives%3A+How+and+Why+AI+Is+Portrayed+Differently+Among+People"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "shin-kim-kim-lee-yun-hicss-2025-ai-singer",
+          "relation_key": "shin-kim-kim-lee-yun-hicss-2025-ai-singer||title:exploring ai narratives how and why ai is portrayed differently among people|year:2025"
+        }
+      ]
+    },
+    {
+      "key": "shin-kim-negash-saeed-hicss-2025-blockchain",
+      "title": "Does an Organization's Performance Matter in Adopting Blockchain Technology? Examining the Impact of Task-Technology Fit and Trade-Off Effect among TOE Factors on Performance Outcome",
+      "aliases": [],
+      "year": 2025,
+      "date": "2025-01-07",
+      "venue": "Proceedings of the 58th Hawaii International Conference on System Sciences",
+      "pages": "6876-6885",
+      "doi": "10.24251/HICSS.2025.821",
+      "record_url": "https://doi.org/10.24251/HICSS.2025.821",
+      "category": "Conference Paper",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 5,
+      "citations": [
+        {
+          "title": "Introduction to the Minitrack on Responsible Approaches to Blockchain, Cryptocurrency, and FinTech",
+          "doi": "",
+          "year": 2026,
+          "authors": [
+            "Kaiguo Zhou",
+            "Yibai Li",
+            "Wanli Liu"
+          ],
+          "venue": "Proceedings of the 59th Hawaii International Conference on System Sciences",
+          "sources": [
+            "Google Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=Introduction+to+the+Minitrack+on+Responsible+Approaches+to+Blockchain%2C+Cryptocurrency%2C+and+FinTech"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "shin-kim-negash-saeed-hicss-2025-blockchain",
+          "relation_key": "shin-kim-negash-saeed-hicss-2025-blockchain||title:introduction to the minitrack on responsible approaches to blockchain cryptocurrency and fintech|year:2026"
+        },
+        {
+          "title": "Balancing opportunity and risk: Perceived benefits, concerns and blockchain adoption intention among MSEs",
+          "doi": "10.1016/j.techsoc.2026.103369",
+          "year": 2026,
+          "authors": [
+            "Rob Kim Marjerison",
+            "Hee Kyung Jeun",
+            "Jong Min Kim"
+          ],
+          "venue": "Technology in Society",
+          "sources": [
+            "Google Scholar",
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=Balancing+opportunity+and+risk%3A+Perceived+benefits%2C+concerns+and+blockchain+adoption+intention+among+MSEs",
+            "ResearchGate": "https://www.researchgate.net/publication/403941891_Balancing_Opportunity_and_Risk_Perceived_Benefits_Concerns_and_Blockchain_Adoption_Intention_among_MSEs"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 2,
+          "target_key": "shin-kim-negash-saeed-hicss-2025-blockchain",
+          "relation_key": "shin-kim-negash-saeed-hicss-2025-blockchain||doi:10.1016/j.techsoc.2026.103369"
+        },
+        {
+          "title": "Blockchain-Enabled Green Supply Chains: A TOE-Based Framework for Carbon Reduction",
+          "doi": "10.1109/hite68444.2025.11363997",
+          "year": 2025,
+          "authors": [
+            "Muhammad Taseen",
+            "Wang Yongli",
+            "Burhan Sadiq",
+            "Ammara Naseem",
+            "Tayyeba Bashir"
+          ],
+          "venue": "2025 International Conference on Horizons of Information Technology and Engineering (HITE)",
+          "sources": [
+            "Google Scholar",
+            "OpenCitations",
+            "ResearchGate",
+            "Semantic Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=Blockchain-Enabled+Green+Supply+Chains%3A+A+TOE-Based+Framework+for+Carbon+Reduction",
+            "ResearchGate": "https://www.researchgate.net/publication/400434312_Blockchain-Enabled_Green_Supply_Chains_A_TOE-Based_Framework_for_Carbon_Reduction",
+            "Semantic Scholar": "https://www.semanticscholar.org/paper/fb29e3d074be19725d64937e31062fad41277d80",
+            "OpenCitations": "https://doi.org/10.1109/hite68444.2025.11363997"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 4,
+          "target_key": "shin-kim-negash-saeed-hicss-2025-blockchain",
+          "relation_key": "shin-kim-negash-saeed-hicss-2025-blockchain||doi:10.1109/hite68444.2025.11363997"
+        },
+        {
+          "title": "Adoption of E-commerce technologies among SMEs in Ghana under the influence of integrated UTAUT and TOE frameworks",
+          "doi": "10.1177/02666669251325479",
+          "year": 2025,
+          "authors": [
+            "Joshua Kwame Mensah",
+            "Yaqing Xu"
+          ],
+          "venue": "Information Development",
+          "sources": [
+            "OpenCitations",
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "ResearchGate": "https://www.researchgate.net/publication/390037055_Adoption_of_E-commerce_technologies_among_SMEs_in_Ghana_under_the_influence_of_integrated_UTAUT_and_TOE_frameworks",
+            "OpenCitations": "https://doi.org/10.1177/02666669251325479"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 2,
+          "target_key": "shin-kim-negash-saeed-hicss-2025-blockchain",
+          "relation_key": "shin-kim-negash-saeed-hicss-2025-blockchain||doi:10.1177/02666669251325479"
+        },
+        {
+          "title": "AI adoption by lecturers in the business study program",
+          "doi": "10.31316/jbis.v7i1.310",
+          "year": 2025,
+          "authors": [
+            "Shita Lusi Wardhani",
+            "Manggar Wulan Kusuma",
+            "Wing Wahyu Winarno"
+          ],
+          "venue": "Journal of Business and Information Systems",
+          "sources": [
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "ResearchGate": "https://www.researchgate.net/publication/394583580_AI_adoption_by_lecturers_in_the_business_study_program"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "shin-kim-negash-saeed-hicss-2025-blockchain",
+          "relation_key": "shin-kim-negash-saeed-hicss-2025-blockchain||doi:10.31316/jbis.v7i1.310"
+        }
+      ]
+    },
+    {
+      "key": "kim-yeo-jain-2024",
+      "title": "An Economic Framework for Creating AI-Augmented Solutions Across Countries Over Time",
+      "aliases": [],
+      "year": 2024,
+      "date": "2024-06-24",
+      "venue": "Information Systems Frontiers",
+      "pages": "1-28",
+      "doi": "10.1007/s10796-024-10487-w",
+      "record_url": "https://doi.org/10.1007/s10796-024-10487-w",
+      "category": "Journal Article",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 6,
+      "citations": [
+        {
+          "title": "Science under sanctions: The impact of the entity list on Chinese academic research",
+          "doi": "10.1016/j.respol.2026.105584",
+          "year": 2026,
+          "authors": [
+            "Xiaodie Pu",
+            "Xintong Wang",
+            "Di Tong",
+            "Alain Yee Loong Chong"
+          ],
+          "venue": "Research Policy",
+          "sources": [
+            "Google Scholar",
+            "Semantic Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=Science+under+sanctions%3A+The+impact+of+the+entity+list+on+Chinese+academic+research",
+            "Semantic Scholar": "https://www.semanticscholar.org/paper/a5ee96f39bfb657917a9a3a97365c6582888817c"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 2,
+          "target_key": "kim-yeo-jain-2024",
+          "relation_key": "kim-yeo-jain-2024||doi:10.1016/j.respol.2026.105584"
+        },
+        {
+          "title": "AI-Augmented Property Rights Governance for Rural Resource Sustainability",
+          "doi": "10.13140/rg.2.2.19106.39368",
+          "year": 2026,
+          "authors": [
+            "Zeshan Hider",
+            "Wasif Shah"
+          ],
+          "venue": "",
+          "sources": [
+            "Google Scholar",
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=AI-Augmented+Property+Rights+Governance+for+Rural+Resource+Sustainability",
+            "ResearchGate": "https://www.researchgate.net/publication/403569871_AI-Augmented_Property_Rights_Governance_for_Rural_Resource_Sustainability"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 2,
+          "target_key": "kim-yeo-jain-2024",
+          "relation_key": "kim-yeo-jain-2024||doi:10.13140/rg.2.2.19106.39368"
+        },
+        {
+          "title": "Understanding AI Adoption in the Austrian Workforce: The Role of Demographics, Trust, Data Privacy, and Ethical Concerns in Productivity and Collaboration Tools",
+          "doi": "",
+          "year": 2025,
+          "authors": [
+            "Linus Nikolaus Eric Reifmesser"
+          ],
+          "venue": "Master's Thesis, FHWien der WKW",
+          "sources": [
+            "Institutional Repository"
+          ],
+          "source_urls": {
+            "Institutional Repository": "https://bibliothek.fh-wien.ac.at/obvsg/UF/2025/Reifmesser.Linus%20Nikolaus%20Eric.pdf"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "kim-yeo-jain-2024",
+          "relation_key": "kim-yeo-jain-2024||title:understanding ai adoption in the austrian workforce the role of demographics trust data privacy and ethical concerns in productivity and collaboration tools|year:2025"
+        },
+        {
+          "title": "The Impact of Artificial Intelligence on the Transformation of Organizations: Effects on Innovation, Knowledge Transfer and Global Competitiveness",
+          "doi": "10.2478/picbe-2025-0343",
+          "year": 2025,
+          "authors": [
+            "Gabriel Croitoru",
+            "Nicoleta Valentina Florea",
+            "Dumitru Goldbach"
+          ],
+          "venue": "Proceedings of the International Conference on Business Excellence",
+          "sources": [
+            "Google Scholar",
+            "OpenCitations",
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=The+Impact+of+Artificial+Intelligence+on+the+Transformation+of+Organizations%3A+Effects+on+Innovation%2C+Knowledge+Transfer+and+Global+Competitiveness",
+            "ResearchGate": "https://www.researchgate.net/publication/394275135_The_Impact_of_Artificial_Intelligence_on_the_Transformation_of_Organizations_Effects_on_Innovation_Knowledge_Transfer_and_Global_Competitiveness",
+            "OpenCitations": "https://doi.org/10.2478/picbe-2025-0343"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 3,
+          "target_key": "kim-yeo-jain-2024",
+          "relation_key": "kim-yeo-jain-2024||doi:10.2478/picbe-2025-0343"
+        },
+        {
+          "title": "The AI-Driven Transition to Industry/Society 6.0",
+          "doi": "10.1007/978-3-032-03127-3_9",
+          "year": 2025,
+          "authors": [
+            "Elias G. Carayannis",
+            "Vasilii Erokhin"
+          ],
+          "venue": "Synthesis Lectures on Engineering, Science, and Technology",
+          "sources": [
+            "Google Scholar",
+            "OpenCitations",
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/scholar?q=The+AI-Driven+Transition+to+Industry%2FSociety+6.0",
+            "ResearchGate": "https://www.researchgate.net/publication/395880463_The_AI-Driven_Transition_to_IndustrySociety_60",
+            "OpenCitations": "https://doi.org/10.1007/978-3-032-03127-3_9"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 3,
+          "target_key": "kim-yeo-jain-2024",
+          "relation_key": "kim-yeo-jain-2024||doi:10.1007/978-3-032-03127-3_9"
+        },
+        {
+          "title": "AI-Augmented Knowledge Creation and Sustainable Innovation: Exploring Green Transformation, Integration, Stakeholders, and Ecosystems",
+          "doi": "10.24191/jikm.v15i2.6740",
+          "year": 2025,
+          "authors": [
+            "Abdul Qadeer"
+          ],
+          "venue": "Journal of Information & Knowledge Management",
+          "sources": [
+            "Semantic Scholar"
+          ],
+          "source_urls": {
+            "Semantic Scholar": "https://www.semanticscholar.org/paper/4ad687cf58e8ed9df64d8a5e82c0ec061b817a36"
+          },
+          "manual_verified": false,
+          "record_count_before_merge": 1,
+          "target_key": "kim-yeo-jain-2024",
+          "relation_key": "kim-yeo-jain-2024||doi:10.24191/jikm.v15i2.6740"
+        }
+      ]
+    },
+    {
+      "key": "lee-kim-shin-amcis-2024-emr",
+      "title": "Sequential Adoption and Co-Adoption of Package Technologies: Electronic Medical Record and Hospital Performance",
+      "aliases": [],
+      "year": 2024,
+      "date": "2024-08-16",
+      "venue": "AMCIS 2024 Proceedings",
+      "doi": "",
+      "record_url": "https://aisel.aisnet.org/amcis2024/health_it/health_it/21/",
+      "category": "Conference Paper",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 0,
+      "citations": []
+    },
+    {
+      "key": "lee-kim-shin-hicss-2023-emr",
+      "title": "Does the Electronic Medical Record (EMR) Adoption Matter? Exploring Patterns of EMR Implementation and its Impact on Hospital Performance",
+      "aliases": [],
+      "year": 2023,
+      "date": "2023-01-03",
+      "venue": "Proceedings of the 56th Hawaii International Conference on System Sciences",
+      "pages": "3015-3024",
+      "doi": "10.24251/HICSS.2023.370",
+      "record_url": "https://aisel.aisnet.org/hicss-56/hc/adoption/5/",
+      "category": "Conference Paper",
+      "s2_id": "",
+      "enabled": true,
+      "curated_citation_count": 1,
+      "citations": [
+        {
+          "title": "An Investigation of Nurses' Perceptions of the Usefulness and Easiness of Using Electronic Medical Records in Saudi Arabia: A Technology Acceptance Model",
+          "doi": "10.24002/ijis.v5i2.6833",
+          "year": 2023,
+          "authors": [
+            "Anas Ali Alhur"
+          ],
+          "venue": "Indonesian Journal of Information Systems",
+          "sources": [
+            "ResearchGate"
+          ],
+          "source_urls": {
+            "ResearchGate": "https://www.researchgate.net/publication/368900358_An_Investigation_of_Nurses%27_Perceptions_of_the_Usefulness_and_Easiness_of_Using_Electronic_Medical_Records_in_Saudi_Arabia_A_Technology_Acceptance_Model_Technology_Acceptance_Model"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "lee-kim-shin-hicss-2023-emr",
+          "relation_key": "lee-kim-shin-hicss-2023-emr||doi:10.24002/ijis.v5i2.6833"
+        }
+      ]
+    }
+  ],
+  "recent_citations": [
+    {
+      "title": "Sequential Human-AI Collaboration Impairs Narrative Creativity in University Students: A Randomized Controlled Trial",
+      "doi": "10.21203/rs.3.rs-8774138/v1",
+      "year": 2026,
+      "authors": [
+        "Haotian Liang",
+        "Dawei Zhang",
+        "Xianli An",
+        "Junjun Xu"
+      ],
+      "venue": "Research Square",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=Sequential+Human-AI+Collaboration+Impairs+Narrative+Creativity+in+University+Students%3A+A+Randomized+Controlled+Trial",
+        "ResearchGate": "https://www.researchgate.net/publication/400503420_Sequential_Human-AI_Collaboration_Impairs_Narrative_Creativity_in_University_Students_A_Randomized_Controlled_Trial"
+      },
+      "sources": [
+        "Google Scholar",
+        "ResearchGate"
+      ],
+      "cites": [
+        "lee-kim-shin-you-sais-2025"
+      ],
+      "cites_titles": [
+        "The Impact of AI-Human Collaboration Models on Creativity: A Study on Search Processes and Decision-Making Dynamics"
+      ]
+    },
+    {
+      "title": "Science under sanctions: The impact of the entity list on Chinese academic research",
+      "doi": "10.1016/j.respol.2026.105584",
+      "year": 2026,
+      "authors": [
+        "Xiaodie Pu",
+        "Xintong Wang",
+        "Di Tong",
+        "Alain Yee Loong Chong"
+      ],
+      "venue": "Research Policy",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=Science+under+sanctions%3A+The+impact+of+the+entity+list+on+Chinese+academic+research",
+        "Semantic Scholar": "https://www.semanticscholar.org/paper/a5ee96f39bfb657917a9a3a97365c6582888817c"
+      },
+      "sources": [
+        "Google Scholar",
+        "Semantic Scholar"
+      ],
+      "cites": [
+        "kim-yeo-jain-2024"
+      ],
+      "cites_titles": [
+        "An Economic Framework for Creating AI-Augmented Solutions Across Countries Over Time"
+      ]
+    },
+    {
+      "title": "Introduction to the Minitrack on Responsible Approaches to Blockchain, Cryptocurrency, and FinTech",
+      "doi": "",
+      "year": 2026,
+      "authors": [
+        "Kaiguo Zhou",
+        "Yibai Li",
+        "Wanli Liu"
+      ],
+      "venue": "Proceedings of the 59th Hawaii International Conference on System Sciences",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=Introduction+to+the+Minitrack+on+Responsible+Approaches+to+Blockchain%2C+Cryptocurrency%2C+and+FinTech"
+      },
+      "sources": [
+        "Google Scholar"
+      ],
+      "cites": [
+        "shin-kim-negash-saeed-hicss-2025-blockchain"
+      ],
+      "cites_titles": [
+        "Does an Organization's Performance Matter in Adopting Blockchain Technology? Examining the Impact of Task-Technology Fit and Trade-Off Effect among TOE Factors on Performance Outcome"
+      ]
+    },
+    {
+      "title": "Balancing opportunity and risk: Perceived benefits, concerns and blockchain adoption intention among MSEs",
+      "doi": "10.1016/j.techsoc.2026.103369",
+      "year": 2026,
+      "authors": [
+        "Rob Kim Marjerison",
+        "Hee Kyung Jeun",
+        "Jong Min Kim"
+      ],
+      "venue": "Technology in Society",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=Balancing+opportunity+and+risk%3A+Perceived+benefits%2C+concerns+and+blockchain+adoption+intention+among+MSEs",
+        "ResearchGate": "https://www.researchgate.net/publication/403941891_Balancing_Opportunity_and_Risk_Perceived_Benefits_Concerns_and_Blockchain_Adoption_Intention_among_MSEs"
+      },
+      "sources": [
+        "Google Scholar",
+        "ResearchGate"
+      ],
+      "cites": [
+        "shin-kim-negash-saeed-hicss-2025-blockchain"
+      ],
+      "cites_titles": [
+        "Does an Organization's Performance Matter in Adopting Blockchain Technology? Examining the Impact of Task-Technology Fit and Trade-Off Effect among TOE Factors on Performance Outcome"
+      ]
+    },
+    {
+      "title": "AI-Augmented Property Rights Governance for Rural Resource Sustainability",
+      "doi": "10.13140/rg.2.2.19106.39368",
+      "year": 2026,
+      "authors": [
+        "Zeshan Hider",
+        "Wasif Shah"
+      ],
+      "venue": "",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=AI-Augmented+Property+Rights+Governance+for+Rural+Resource+Sustainability",
+        "ResearchGate": "https://www.researchgate.net/publication/403569871_AI-Augmented_Property_Rights_Governance_for_Rural_Resource_Sustainability"
+      },
+      "sources": [
+        "Google Scholar",
+        "ResearchGate"
+      ],
+      "cites": [
+        "kim-yeo-jain-2024"
+      ],
+      "cites_titles": [
+        "An Economic Framework for Creating AI-Augmented Solutions Across Countries Over Time"
+      ]
+    },
+    {
+      "title": "Understanding AI Adoption in the Austrian Workforce: The Role of Demographics, Trust, Data Privacy, and Ethical Concerns in Productivity and Collaboration Tools",
+      "doi": "",
+      "year": 2025,
+      "authors": [
+        "Linus Nikolaus Eric Reifmesser"
+      ],
+      "venue": "Master's Thesis, FHWien der WKW",
+      "source_urls": {
+        "Institutional Repository": "https://bibliothek.fh-wien.ac.at/obvsg/UF/2025/Reifmesser.Linus%20Nikolaus%20Eric.pdf"
+      },
+      "sources": [
+        "Institutional Repository"
+      ],
+      "cites": [
+        "kim-yeo-jain-2024"
+      ],
+      "cites_titles": [
+        "An Economic Framework for Creating AI-Augmented Solutions Across Countries Over Time"
+      ]
+    },
+    {
+      "title": "The Impact of Digital Transformation-Driven Process Innovation on Customization Strategy Performance: A Firm Size Comparison",
+      "doi": "10.15813/kmr.2025.26.3.003",
+      "year": 2025,
+      "authors": [
+        "Heejoo Lim",
+        "Sangjoon Lee"
+      ],
+      "venue": "Knowledge Management Research",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=The+Impact+of+Digital+Transformation-Driven+Process+Innovation+on+Customization+Strategy+Performance%3A+A+Firm+Size+Comparison"
+      },
+      "sources": [
+        "Google Scholar"
+      ],
+      "cites": [
+        "yun-shin-kim-kim-kmr-2025"
+      ],
+      "cites_titles": [
+        "The Evolution of Smart Factories and the Metaverse for Innovative Value Creation in the Era of Industry 5.0"
+      ]
+    },
+    {
+      "title": "The Impact of Artificial Intelligence on the Transformation of Organizations: Effects on Innovation, Knowledge Transfer and Global Competitiveness",
+      "doi": "10.2478/picbe-2025-0343",
+      "year": 2025,
+      "authors": [
+        "Gabriel Croitoru",
+        "Nicoleta Valentina Florea",
+        "Dumitru Goldbach"
+      ],
+      "venue": "Proceedings of the International Conference on Business Excellence",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=The+Impact+of+Artificial+Intelligence+on+the+Transformation+of+Organizations%3A+Effects+on+Innovation%2C+Knowledge+Transfer+and+Global+Competitiveness",
+        "ResearchGate": "https://www.researchgate.net/publication/394275135_The_Impact_of_Artificial_Intelligence_on_the_Transformation_of_Organizations_Effects_on_Innovation_Knowledge_Transfer_and_Global_Competitiveness",
+        "OpenCitations": "https://doi.org/10.2478/picbe-2025-0343"
+      },
+      "sources": [
+        "Google Scholar",
+        "OpenCitations",
+        "ResearchGate"
+      ],
+      "cites": [
+        "kim-yeo-jain-2024"
+      ],
+      "cites_titles": [
+        "An Economic Framework for Creating AI-Augmented Solutions Across Countries Over Time"
+      ]
+    },
+    {
+      "title": "The AI-Driven Transition to Industry/Society 6.0",
+      "doi": "10.1007/978-3-032-03127-3_9",
+      "year": 2025,
+      "authors": [
+        "Elias G. Carayannis",
+        "Vasilii Erokhin"
+      ],
+      "venue": "Synthesis Lectures on Engineering, Science, and Technology",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=The+AI-Driven+Transition+to+Industry%2FSociety+6.0",
+        "ResearchGate": "https://www.researchgate.net/publication/395880463_The_AI-Driven_Transition_to_IndustrySociety_60",
+        "OpenCitations": "https://doi.org/10.1007/978-3-032-03127-3_9"
+      },
+      "sources": [
+        "Google Scholar",
+        "OpenCitations",
+        "ResearchGate"
+      ],
+      "cites": [
+        "kim-yeo-jain-2024"
+      ],
+      "cites_titles": [
+        "An Economic Framework for Creating AI-Augmented Solutions Across Countries Over Time"
+      ]
+    },
+    {
+      "title": "Sentiment Analysis of Fans Toward Brand Merchandise Releases Using Support Vector Machine (SVM)",
+      "doi": "10.30811/jaise.v5i3.7264",
+      "year": 2025,
+      "authors": [
+        "Christian Imanuel Munaiseche",
+        "Nurchim Nurchim",
+        "Bangun Prajadi Cipto Utomo"
+      ],
+      "venue": "Journal of Artificial Intelligence and Software Engineering",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=Sentiment+Analysis+of+Fans+Toward+Brand+Merchandise+Releases+Using+Support+Vector+Machine+%28SVM%29"
+      },
+      "sources": [
+        "Google Scholar"
+      ],
+      "cites": [
+        "shin-kim-kim-lee-yun-hicss-2025-ai-singer"
+      ],
+      "cites_titles": [
+        "What Do You Feel about an AI Singer Created by Generative AI? Exploring Sentiment about an AI Singer from a Dual Realism Perspective"
+      ]
+    },
+    {
+      "title": "Exploring AI Narratives: How and Why AI Is Portrayed Differently Among People",
+      "doi": "",
+      "year": 2025,
+      "authors": [
+        "Meike Bauer",
+        "Teresa Hammerschmidt",
+        "Oliver Posegga"
+      ],
+      "venue": "AMCIS 2025 Proceedings",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=Exploring+AI+Narratives%3A+How+and+Why+AI+Is+Portrayed+Differently+Among+People"
+      },
+      "sources": [
+        "Google Scholar"
+      ],
+      "cites": [
+        "shin-kim-kim-lee-yun-hicss-2025-ai-singer"
+      ],
+      "cites_titles": [
+        "What Do You Feel about an AI Singer Created by Generative AI? Exploring Sentiment about an AI Singer from a Dual Realism Perspective"
+      ]
+    },
+    {
+      "title": "Blockchain-Enabled Green Supply Chains: A TOE-Based Framework for Carbon Reduction",
+      "doi": "10.1109/hite68444.2025.11363997",
+      "year": 2025,
+      "authors": [
+        "Muhammad Taseen",
+        "Wang Yongli",
+        "Burhan Sadiq",
+        "Ammara Naseem",
+        "Tayyeba Bashir"
+      ],
+      "venue": "2025 International Conference on Horizons of Information Technology and Engineering (HITE)",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=Blockchain-Enabled+Green+Supply+Chains%3A+A+TOE-Based+Framework+for+Carbon+Reduction",
+        "ResearchGate": "https://www.researchgate.net/publication/400434312_Blockchain-Enabled_Green_Supply_Chains_A_TOE-Based_Framework_for_Carbon_Reduction",
+        "Semantic Scholar": "https://www.semanticscholar.org/paper/fb29e3d074be19725d64937e31062fad41277d80",
+        "OpenCitations": "https://doi.org/10.1109/hite68444.2025.11363997"
+      },
+      "sources": [
+        "Google Scholar",
+        "OpenCitations",
+        "ResearchGate",
+        "Semantic Scholar"
+      ],
+      "cites": [
+        "shin-kim-negash-saeed-hicss-2025-blockchain"
+      ],
+      "cites_titles": [
+        "Does an Organization's Performance Matter in Adopting Blockchain Technology? Examining the Impact of Task-Technology Fit and Trade-Off Effect among TOE Factors on Performance Outcome"
+      ]
+    },
+    {
+      "title": "Adoption of E-commerce technologies among SMEs in Ghana under the influence of integrated UTAUT and TOE frameworks",
+      "doi": "10.1177/02666669251325479",
+      "year": 2025,
+      "authors": [
+        "Joshua Kwame Mensah",
+        "Yaqing Xu"
+      ],
+      "venue": "Information Development",
+      "source_urls": {
+        "ResearchGate": "https://www.researchgate.net/publication/390037055_Adoption_of_E-commerce_technologies_among_SMEs_in_Ghana_under_the_influence_of_integrated_UTAUT_and_TOE_frameworks",
+        "OpenCitations": "https://doi.org/10.1177/02666669251325479"
+      },
+      "sources": [
+        "OpenCitations",
+        "ResearchGate"
+      ],
+      "cites": [
+        "shin-kim-negash-saeed-hicss-2025-blockchain"
+      ],
+      "cites_titles": [
+        "Does an Organization's Performance Matter in Adopting Blockchain Technology? Examining the Impact of Task-Technology Fit and Trade-Off Effect among TOE Factors on Performance Outcome"
+      ]
+    },
+    {
+      "title": "AI-Augmented Knowledge Creation and Sustainable Innovation: Exploring Green Transformation, Integration, Stakeholders, and Ecosystems",
+      "doi": "10.24191/jikm.v15i2.6740",
+      "year": 2025,
+      "authors": [
+        "Abdul Qadeer"
+      ],
+      "venue": "Journal of Information & Knowledge Management",
+      "source_urls": {
+        "Semantic Scholar": "https://www.semanticscholar.org/paper/4ad687cf58e8ed9df64d8a5e82c0ec061b817a36"
+      },
+      "sources": [
+        "Semantic Scholar"
+      ],
+      "cites": [
+        "kim-yeo-jain-2024"
+      ],
+      "cites_titles": [
+        "An Economic Framework for Creating AI-Augmented Solutions Across Countries Over Time"
+      ]
+    },
+    {
+      "title": "AI and Cultural Innovations in South Korea",
+      "doi": "10.63680/za465gfyvb86h5g5",
+      "year": 2025,
+      "authors": [
+        "Sakshi Mohankumar Dongre"
+      ],
+      "venue": "International Journal of Science, Architecture, Technology and Environment",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/scholar?q=AI+and+Cultural+Innovations+in+South+Korea"
+      },
+      "sources": [
+        "Google Scholar"
+      ],
+      "cites": [
+        "lee-shin-kim-lee-hicss-2025-minitrack"
+      ],
+      "cites_titles": [
+        "Introduction to the Minitrack on Engaging Artificial Intelligence and Digital Humans in the Entertainment Industry"
+      ]
+    },
+    {
+      "title": "AI adoption by lecturers in the business study program",
+      "doi": "10.31316/jbis.v7i1.310",
+      "year": 2025,
+      "authors": [
+        "Shita Lusi Wardhani",
+        "Manggar Wulan Kusuma",
+        "Wing Wahyu Winarno"
+      ],
+      "venue": "Journal of Business and Information Systems",
+      "source_urls": {
+        "ResearchGate": "https://www.researchgate.net/publication/394583580_AI_adoption_by_lecturers_in_the_business_study_program"
+      },
+      "sources": [
+        "ResearchGate"
+      ],
+      "cites": [
+        "shin-kim-negash-saeed-hicss-2025-blockchain"
+      ],
+      "cites_titles": [
+        "Does an Organization's Performance Matter in Adopting Blockchain Technology? Examining the Impact of Task-Technology Fit and Trade-Off Effect among TOE Factors on Performance Outcome"
+      ]
+    },
+    {
+      "title": "An Investigation of Nurses' Perceptions of the Usefulness and Easiness of Using Electronic Medical Records in Saudi Arabia: A Technology Acceptance Model",
+      "doi": "10.24002/ijis.v5i2.6833",
+      "year": 2023,
+      "authors": [
+        "Anas Ali Alhur"
+      ],
+      "venue": "Indonesian Journal of Information Systems",
+      "source_urls": {
+        "ResearchGate": "https://www.researchgate.net/publication/368900358_An_Investigation_of_Nurses%27_Perceptions_of_the_Usefulness_and_Easiness_of_Using_Electronic_Medical_Records_in_Saudi_Arabia_A_Technology_Acceptance_Model_Technology_Acceptance_Model"
+      },
+      "sources": [
+        "ResearchGate"
+      ],
+      "cites": [
+        "lee-kim-shin-hicss-2023-emr"
+      ],
+      "cites_titles": [
+        "Does the Electronic Medical Record (EMR) Adoption Matter? Exploring Patterns of EMR Implementation and its Impact on Hospital Performance"
+      ]
+    }
+  ],
+  "citation_geography": {
+    "enabled": true,
+    "total_unique_citing_works": 17,
+    "mapped_citing_works": 11,
+    "works_with_institution": 11,
+    "countries_count": 9,
+    "institutions_count": 16,
+    "countries": [
+      {
+        "code": "CN",
+        "citing_works": 6
+      },
+      {
+        "code": "MY",
+        "citing_works": 1
+      },
+      {
+        "code": "KR",
+        "citing_works": 1
+      },
+      {
+        "code": "ID",
+        "citing_works": 1
+      },
+      {
+        "code": "AT",
+        "citing_works": 1
+      },
+      {
+        "code": "RO",
+        "citing_works": 1
+      },
+      {
+        "code": "US",
+        "citing_works": 1
+      },
+      {
+        "code": "PK",
+        "citing_works": 1
+      },
+      {
+        "code": "SA",
+        "citing_works": 1
+      }
+    ],
+    "institutions": [
+      {
+        "id": "I11662577",
+        "name": "Monash University Malaysia",
+        "country_code": "MY",
+        "latitude": 3.04384,
+        "longitude": 101.58062,
+        "city": "Subang Jaya",
+        "region": "Kuala Lumpur",
+        "country": "Malaysia",
+        "citing_works": 1
+      },
+      {
+        "id": "I78978612",
+        "name": "Yangzhou University",
+        "country_code": "CN",
+        "latitude": 32.397220611572266,
+        "longitude": 119.43582916259766,
+        "city": "Yangzhou",
+        "region": "",
+        "country": "China",
+        "citing_works": 1
+      },
+      {
+        "id": "I24062138",
+        "name": "Konkuk University",
+        "country_code": "KR",
+        "latitude": 37.566,
+        "longitude": 126.9784,
+        "city": "Seoul",
+        "region": "Seoul",
+        "country": "South Korea",
+        "citing_works": 1
+      },
+      {
+        "id": "I24214720",
+        "name": "Hansung University",
+        "country_code": "KR",
+        "latitude": 37.566001892089844,
+        "longitude": 126.97840118408203,
+        "city": "Seoul",
+        "region": "",
+        "country": "South Korea",
+        "citing_works": 1
+      },
+      {
+        "id": "I4210153668",
+        "name": "Wenzhou-Kean University",
+        "country_code": "CN",
+        "latitude": 27.91663360595703,
+        "longitude": 120.65364837646484,
+        "city": "Wenzhou",
+        "region": "",
+        "country": "China",
+        "citing_works": 1
+      },
+      {
+        "id": "I153473198",
+        "name": "North China Electric Power University",
+        "country_code": "CN",
+        "latitude": 39.907501220703125,
+        "longitude": 116.39723205566406,
+        "city": "Beijing",
+        "region": "",
+        "country": "China",
+        "citing_works": 1
+      },
+      {
+        "id": "I37796252",
+        "name": "Beijing University of Technology",
+        "country_code": "CN",
+        "latitude": 39.9075,
+        "longitude": 116.39723,
+        "city": "Beijing",
+        "region": "Beijing",
+        "country": "China",
+        "citing_works": 1
+      },
+      {
+        "id": "I149594827",
+        "name": "Xidian University",
+        "country_code": "CN",
+        "latitude": 34.258331298828125,
+        "longitude": 108.9286117553711,
+        "city": "Xi'an",
+        "region": "",
+        "country": "China",
+        "citing_works": 1
+      },
+      {
+        "id": "I4210155147",
+        "name": "Institut Seni Indonesia Yogyakarta",
+        "country_code": "ID",
+        "latitude": -7.888060092926025,
+        "longitude": 110.32888793945312,
+        "city": "Bantul",
+        "region": "",
+        "country": "Indonesia",
+        "citing_works": 1
+      },
+      {
+        "id": "I13591777",
+        "name": "University of Nottingham Ningbo China",
+        "country_code": "CN",
+        "latitude": 29.878189086914062,
+        "longitude": 121.54945373535156,
+        "city": "Ningbo",
+        "region": "",
+        "country": "China",
+        "citing_works": 1
+      },
+      {
+        "id": "manual:fhwien-der-wkw",
+        "name": "FHWien der WKW",
+        "country_code": "AT",
+        "latitude": 48.22633,
+        "longitude": 16.34907,
+        "city": "Vienna",
+        "region": "Vienna",
+        "country": "Austria",
+        "citing_works": 1
+      },
+      {
+        "id": "I4210100492",
+        "name": "Valahia University of Targoviste",
+        "country_code": "RO",
+        "latitude": 44.92543029785156,
+        "longitude": 25.45669937133789,
+        "city": "Târgovişte",
+        "region": "",
+        "country": "Romania",
+        "citing_works": 1
+      },
+      {
+        "id": "I151727225",
+        "name": "Harbin Engineering University",
+        "country_code": "CN",
+        "latitude": 45.75,
+        "longitude": 126.6500015258789,
+        "city": "Harbin",
+        "region": "",
+        "country": "China",
+        "citing_works": 1
+      },
+      {
+        "id": "I193531525",
+        "name": "George Washington University",
+        "country_code": "US",
+        "latitude": 38.89511,
+        "longitude": -77.03637,
+        "city": "Washington",
+        "region": "District of Columbia",
+        "country": "United States",
+        "citing_works": 1
+      },
+      {
+        "id": "I1308893265",
+        "name": "Shaheed Benazir Bhutto University",
+        "country_code": "PK",
+        "latitude": 24.8608,
+        "longitude": 67.0104,
+        "city": "Karachi",
+        "region": "Sindh",
+        "country": "Pakistan",
+        "citing_works": 1
+      },
+      {
+        "id": "I185203018",
+        "name": "King Saud bin Abdulaziz University for Health Sciences",
+        "country_code": "SA",
+        "latitude": 24.68773078918457,
+        "longitude": 46.72185134887695,
+        "city": "Riyadh",
+        "region": "",
+        "country": "Saudi Arabia",
+        "citing_works": 1
+      }
+    ],
+    "note": "Geography is derived primarily from OpenAlex work-level author affiliation metadata. When automatic work-level metadata are unavailable, a verified manual geography override may be used if the citing work's institutional affiliation can be confirmed from a reliable source. A single citing work may contribute to more than one country when its authors report affiliations in multiple countries."
+  },
+  "review_queue": [],
+  "warnings": [
+    "kim-kim-shin-dsi-2025: No DOI or Semantic Scholar paper ID",
+    "kim-kim-shin-dsi-2025: No DOI for OpenCitations",
+    "yun-shin-kim-kim-kmr-2025: Semantic Scholar lookup failed: 404: https://api.semanticscholar.org/graph/v1/paper/DOI:10.15813/kmr.2025.26.1.001?fields=title,year,authors,venue,url,externalIds,citationCount,publicationDate",
+    "lee-kim-shin-you-sais-2025: No DOI or Semantic Scholar paper ID",
+    "lee-kim-shin-you-sais-2025: No DOI for OpenCitations",
+    "lee-kim-shin-amcis-2024-emr: No DOI or Semantic Scholar paper ID",
+    "lee-kim-shin-amcis-2024-emr: No DOI for OpenCitations"
+  ],
+  "method_note": "The publication portfolio is manually verified. Citation records are combined across manual Google Scholar and ResearchGate imports plus automated Semantic Scholar and OpenCitations retrieval. Exact DOI matches are deduplicated. Records without DOI are automatically merged only when normalized title and year match conservatively. Fuzzy possible duplicates are not merged and are sent to the review queue. Curated h-index is calculated from unique citing-paper relationships in this local cross-source database and is not a Google Scholar, Scopus, Web of Science, Semantic Scholar, or ResearchGate h-index."
+}
