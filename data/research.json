@@ -1,6 +1,6 @@
 {
   "setup_required": false,
-  "updated_at": "2026-08-27T05:34:05.582848+00:00",
+  "updated_at": "2026-09-21T19:07:22.251226+00:00",
   "researcher": {
     "name": "Jin Sik Kim",
     "title": "Assistant Professor of Management Science & Information Systems",
@@ -18,17 +18,17 @@
   },
   "metrics": {
     "verified_publications": 11,
-    "unique_citing_works": 17,
-    "citation_links": 17,
-    "curated_h_index": 2,
+    "unique_citing_works": 18,
+    "citation_links": 18,
+    "curated_h_index": 3,
     "curated_i10_index": 0
   },
   "source_counts": {
-    "Google Scholar": 12,
+    "Google Scholar": 13,
     "Institutional Repository": 1,
     "OpenCitations": 4,
     "ResearchGate": 9,
-    "Semantic Scholar": 3
+    "Semantic Scholar": 2
   },
   "citations_by_year": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "year": 2026,
-      "citations": 5
+      "citations": 6
     }
   ],
   "publications": [
@@ -234,8 +234,27 @@
       "category": "Conference Paper",
       "s2_id": "",
       "enabled": true,
-      "curated_citation_count": 2,
+      "curated_citation_count": 3,
       "citations": [
+        {
+          "title": "Humana, boneca ou ciborgue? Humana, apesar de tudo: Criação musical-artística nos limites da pós-humanidade e do feminismo maquínico",
+          "doi": "10.29073/naus.v9i2.1271",
+          "year": 2026,
+          "authors": [
+            "Paula Guerra"
+          ],
+          "venue": "Revista Lusófona de Estudos Culturais e Comunicacionais (NAUS)",
+          "sources": [
+            "Google Scholar"
+          ],
+          "source_urls": {
+            "Google Scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s7YAnvEAAAAJ&sortby=pubdate&citation_for_view=s7YAnvEAAAAJ:ZOYfmFL0FrgC"
+          },
+          "manual_verified": true,
+          "record_count_before_merge": 1,
+          "target_key": "shin-kim-kim-lee-yun-hicss-2025-ai-singer",
+          "relation_key": "shin-kim-kim-lee-yun-hicss-2025-ai-singer||doi:10.29073/naus.v9i2.1271"
+        },
         {
           "title": "Sentiment Analysis of Fans Toward Brand Merchandise Releases Using Support Vector Machine (SVM)",
           "doi": "10.30811/jaise.v5i3.7264",
@@ -354,17 +373,15 @@
           "sources": [
             "Google Scholar",
             "OpenCitations",
-            "ResearchGate",
-            "Semantic Scholar"
+            "ResearchGate"
           ],
           "source_urls": {
             "Google Scholar": "https://scholar.google.com/scholar?q=Blockchain-Enabled+Green+Supply+Chains%3A+A+TOE-Based+Framework+for+Carbon+Reduction",
             "ResearchGate": "https://www.researchgate.net/publication/400434312_Blockchain-Enabled_Green_Supply_Chains_A_TOE-Based_Framework_for_Carbon_Reduction",
-            "Semantic Scholar": "https://www.semanticscholar.org/paper/fb29e3d074be19725d64937e31062fad41277d80",
             "OpenCitations": "https://doi.org/10.1109/hite68444.2025.11363997"
           },
           "manual_verified": true,
-          "record_count_before_merge": 4,
+          "record_count_before_merge": 3,
           "target_key": "shin-kim-negash-saeed-hicss-2025-blockchain",
           "relation_key": "shin-kim-negash-saeed-hicss-2025-blockchain||doi:10.1109/hite68444.2025.11363997"
         },
@@ -692,6 +709,27 @@
       ]
     },
     {
+      "title": "Humana, boneca ou ciborgue? Humana, apesar de tudo: Criação musical-artística nos limites da pós-humanidade e do feminismo maquínico",
+      "doi": "10.29073/naus.v9i2.1271",
+      "year": 2026,
+      "authors": [
+        "Paula Guerra"
+      ],
+      "venue": "Revista Lusófona de Estudos Culturais e Comunicacionais (NAUS)",
+      "source_urls": {
+        "Google Scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s7YAnvEAAAAJ&sortby=pubdate&citation_for_view=s7YAnvEAAAAJ:ZOYfmFL0FrgC"
+      },
+      "sources": [
+        "Google Scholar"
+      ],
+      "cites": [
+        "shin-kim-kim-lee-yun-hicss-2025-ai-singer"
+      ],
+      "cites_titles": [
+        "What Do You Feel about an AI Singer Created by Generative AI? Exploring Sentiment about an AI Singer from a Dual Realism Perspective"
+      ]
+    },
+    {
       "title": "Balancing opportunity and risk: Perceived benefits, concerns and blockchain adoption intention among MSEs",
       "doi": "10.1016/j.techsoc.2026.103369",
       "year": 2026,
@@ -897,14 +935,12 @@
       "source_urls": {
         "Google Scholar": "https://scholar.google.com/scholar?q=Blockchain-Enabled+Green+Supply+Chains%3A+A+TOE-Based+Framework+for+Carbon+Reduction",
         "ResearchGate": "https://www.researchgate.net/publication/400434312_Blockchain-Enabled_Green_Supply_Chains_A_TOE-Based_Framework_for_Carbon_Reduction",
-        "Semantic Scholar": "https://www.semanticscholar.org/paper/fb29e3d074be19725d64937e31062fad41277d80",
         "OpenCitations": "https://doi.org/10.1109/hite68444.2025.11363997"
       },
       "sources": [
         "Google Scholar",
         "OpenCitations",
-        "ResearchGate",
-        "Semantic Scholar"
+        "ResearchGate"
       ],
       "cites": [
         "shin-kim-negash-saeed-hicss-2025-blockchain"
@@ -1026,7 +1062,7 @@
   ],
   "citation_geography": {
     "enabled": true,
-    "total_unique_citing_works": 17,
+    "total_unique_citing_works": 18,
     "mapped_citing_works": 11,
     "works_with_institution": 11,
     "countries_count": 9,
@@ -1251,11 +1287,13 @@
   },
   "review_queue": [],
   "warnings": [
+    "lee-lee-shin-kim-hicss-2026-minitrack: Semantic Scholar citation paging stopped: HTTP 429: https://api.semanticscholar.org/graph/v1/paper/9a3eb4af118cb8181ed720e10f6ed8eb23b58061/citations?fields=title,year,authors,venue,url,externalIds,publicationDate,citationCount&offset=0&limit=1000",
     "kim-kim-shin-dsi-2025: No DOI or Semantic Scholar paper ID",
     "kim-kim-shin-dsi-2025: No DOI for OpenCitations",
     "yun-shin-kim-kim-kmr-2025: Semantic Scholar lookup failed: 404: https://api.semanticscholar.org/graph/v1/paper/DOI:10.15813/kmr.2025.26.1.001?fields=title,year,authors,venue,url,externalIds,citationCount,publicationDate",
     "lee-kim-shin-you-sais-2025: No DOI or Semantic Scholar paper ID",
     "lee-kim-shin-you-sais-2025: No DOI for OpenCitations",
+    "shin-kim-negash-saeed-hicss-2025-blockchain: Semantic Scholar citation paging stopped: HTTP 429: https://api.semanticscholar.org/graph/v1/paper/6dec4bb138f5238842166fb391eb3ba4562cd3f2/citations?fields=title,year,authors,venue,url,externalIds,publicationDate,citationCount&offset=0&limit=1000",
     "lee-kim-shin-amcis-2024-emr: No DOI or Semantic Scholar paper ID",
     "lee-kim-shin-amcis-2024-emr: No DOI for OpenCitations"
   ],
